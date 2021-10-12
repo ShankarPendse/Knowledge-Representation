@@ -3,7 +3,7 @@
 The codes below uses AIMA python repository
 
 
-A1_COMP9016_PENDSE_SHANKAR_R00195877.py implements a simple 2D world agents: 
+A1_COMP9016_PENDSE_SHANKAR_R00195877.py implements a simple 2D world agent: 
 
 # simple reflex based agent
 # model based agent 
